@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(105, 105, 121);
+}
+.menu2{
+    text-align: center; 
+    background-color: rgb(120, 217, 125)
+}
+.main2{
+    display: flex; 
+    background-color: rgb(255, 255, 255);
+     border-radius: 5px; 
+     border: 2 px;
+
+}
+.main2 div{
+    background-color: rgba(255, 255, 255, 0.377);
+    margin: 5px;
+    padding: 0px;
+     font-size: 15spx;
+    }
+.flex2{
+    width: auto;
+    height: auto;
+}
+.flex2:hover{
+    background-color: rgb(83, 83, 141); 
+    height: auto; 
+     width: auto;
+}
+.ok{
+    width: 60px;
+    height: 35px;
+    opacity: .5;     
+}
+.ok:hover{
+    background-color: rgb(2, 111, 2);
+}
+
+.main{
+    display: flex;
+    background-image: solid black;
+    border-radius: 5px; 
+    border: 5px;
+      
+}
+div{
+    background-color: rgba(255, 255, 255, 0.377); 
+    margin: 5px;
+    padding: 0px;
+    font-size: 15px;
+}
+.main2 div{
+    background-color: rgba(255, 255, 255, 0.377);
+    margin: 5px;
+    padding: 0px;
+    font-size: 15spx;
+}
+
+.flex{
+    width: auto;         
+}
+.flex:hover{
+    background-color: rgb(83, 83, 141); 
+    height: auto; 
+    width: auto;  
+}
